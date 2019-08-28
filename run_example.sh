@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Starting reddit post..."
-cd ~/Desktop/datasciencereddit
+cd ~/path/to/dir
 source venv/bin/activate
 python datascience_reddit.py 
 deactivate
